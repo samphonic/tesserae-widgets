@@ -2151,6 +2151,32 @@
         "sha256": "a160fe308086309cd7840d271c6419e1de9abd82cb0a2593076cf15b0af3eb65"
       },
       "source": "https://github.com/dmellok/tesserae-widget-escape-clue"
-    }
+    },
+    {
+      "id": "family_dashboard",
+      "name": "Family Dashboard",
+      "description": "Full-screen family dashboard with date, weather forecast, and Google Calendar agenda.",
+      "icon": "ph-calendar-check",
+      "author": {
+        "name": "Sam",
+        "github": "samphonic"
+      },
+      "tags": [
+        "calendar","weather"
+      ],
+      "kind": "widget",
+      "tesserae_compat": "1.x",
+      "official": true,
+      "screenshot_sizes": [
+        "lg"
+      ],
+      "extra_screenshot_count": 1,
+      "release": {
+        "version": "1.1.0",
+        "tarball_url": "https://github.com/samphonic/tesserae-widget-family-dashboard/archive/refs/tags/v1.1.0.tar.gz",
+        "sha256": "78388c9dce70f72b0ec928fee8ef5a4110f9d8631e4a03ea585d588fa91397d5"
+      },
+      "source": "https://github.com/samphonic/tesserae-widget-family-dashboard"
+    },
   ]
 }
